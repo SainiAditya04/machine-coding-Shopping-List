@@ -1,0 +1,1 @@
+export const FOOD_API = `https://api.frontendeval.com/fake/food/`
